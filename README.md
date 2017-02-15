@@ -17,3 +17,6 @@ npm start
 ```
 And enter the url [http://localhost:3000](http://localhost:3000) in your favorite browser
 
+## How to add code
+Create a new branch, commit and push on this branch. Then, do a pull request on `staging`. We check that the code is stable and we merge after a while into the `master`.
+
